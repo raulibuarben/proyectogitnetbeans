@@ -11,6 +11,6 @@ package com.mycompany.proyectogitnetbeans;
 public class ProyectoGitNetbeans {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundo modificado!");
+        System.out.println("Hola mundo modificado de nuevo para ED!");
     }
 }
